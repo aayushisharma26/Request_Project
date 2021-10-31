@@ -1,0 +1,266 @@
+{
+    "data": [
+        {
+            "id": "1816",
+            "parent_exercise_id": null,
+            "name": "NavGurukul Constitution",
+            "slug": "hindi-constitution__ng-constitution",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/ng-constitution.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1819",
+            "parent_exercise_id": null,
+            "name": "Section III - Complaints",
+            "slug": "hindi-constitution__section-3-complaints",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-3-complaints.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1826",
+                    "parent_exercise_id": "1817",
+                    "name": "Right to Dissent",
+                    "slug": "hindi-constitution__section-0/right-to-dissent",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/right-to-dissent.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1827",
+                    "parent_exercise_id": "1817",
+                    "name": "Right to Audit",
+                    "slug": "hindi-constitution__section-0/right-to-audit",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/right-to-audit.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1820",
+            "parent_exercise_id": null,
+            "name": "Section IV - Elections",
+            "slug": "hindi-constitution__section-4-elections",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-4-elections.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1828",
+                    "parent_exercise_id": "1818",
+                    "name": "General Secretary",
+                    "slug": "hindi-constitution__section-1-council/gensec",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/gensec.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1829",
+                    "parent_exercise_id": "1818",
+                    "name": "Food and Kitchen Coordinator",
+                    "slug": "hindi-constitution__section-1-council/food",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/food.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1825",
+                    "parent_exercise_id": "1818",
+                    "name": "Information and Technology Coordinator",
+                    "slug": "hindi-constitution__section-1-council/information",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/information.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1837",
+                    "parent_exercise_id": "1818",
+                    "name": "Treasurer",
+                    "slug": "hindi-constitution__section-1-council/treasurer",
+                    "sequence_num": 3004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/treasurer.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1838",
+                    "parent_exercise_id": "1818",
+                    "name": "Outreach and Communications Coordinator",
+                    "slug": "hindi-constitution__section-1-council/outreach",
+                    "sequence_num": 3005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/outreach.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1839",
+                    "parent_exercise_id": "1818",
+                    "name": "Training and Placement Coordinator",
+                    "slug": "hindi-constitution__section-1-council/training",
+                    "sequence_num": 3006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/training.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1830",
+                    "parent_exercise_id": "1818",
+                    "name": "Facility Maintenance Coordinator",
+                    "slug": "hindi-constitution__section-1-council/maintenance",
+                    "sequence_num": 3007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/maintenance.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1831",
+                    "parent_exercise_id": "1818",
+                    "name": "Prosperity Officer",
+                    "slug": "hindi-constitution__section-1-council/happiness",
+                    "sequence_num": 3008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/happiness.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1832",
+                    "parent_exercise_id": "1818",
+                    "name": "Eligibility to contest for Council",
+                    "slug": "hindi-constitution__section-1-council/eligibility",
+                    "sequence_num": 3009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/eligibility.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1833",
+                    "parent_exercise_id": "1818",
+                    "name": "General Body Meeting",
+                    "slug": "hindi-constitution__section-1-council/gbm",
+                    "sequence_num": 3010,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/gbm.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1834",
+                    "parent_exercise_id": "1818",
+                    "name": "Right to Recall",
+                    "slug": "hindi-constitution__section-1-council/recall",
+                    "sequence_num": 3011,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/recall.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1835",
+                    "parent_exercise_id": "1818",
+                    "name": "Resignation & Dismissal",
+                    "slug": "hindi-constitution__section-1-council/resignation-and-dismissal",
+                    "sequence_num": 3012,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/resignation-and-dismissal.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1836",
+                    "parent_exercise_id": "1818",
+                    "name": "Interim Responsibilities",
+                    "slug": "hindi-constitution__section-1-council/intrim-responsibilities",
+                    "sequence_num": 3013,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/intrim-responsibilities.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1824",
+            "parent_exercise_id": null,
+            "name": "Ethics of Election",
+            "slug": "hindi-constitution__ethics",
+            "sequence_num": 600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/ethics.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1840",
+                    "parent_exercise_id": "1821",
+                    "name": "Appointment of DISCO",
+                    "slug": "hindi-constitution__section-2-discipline/appointment",
+                    "sequence_num": 4001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-2-discipline/appointment.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1823",
+            "parent_exercise_id": null,
+            "name": "Section V - Rules & Regulations",
+            "slug": "hindi-constitution__section-5-rules",
+            "sequence_num": 700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-5-rules.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1822",
+            "parent_exercise_id": null,
+            "name": "Section VI - Center and Board of Governors",
+            "slug": "hindi-constitution__section-6-center",
+            "sequence_num": 800,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-6-center.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1817",
+            "parent_exercise_id": "1817",
+            "name": "Power to the People",
+            "slug": "hindi-constitution__section-0/section-0",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/section-0.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1818",
+            "parent_exercise_id": "1818",
+            "name": "Section I - Council",
+            "slug": "hindi-constitution__section-1-council/section-1-council",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/section-1-council.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1821",
+            "parent_exercise_id": "1821",
+            "name": "Section II - Disciplinary Committee",
+            "slug": "hindi-constitution__section-2-discipline/section-2-discipline",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-2-discipline/section-2-discipline.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
